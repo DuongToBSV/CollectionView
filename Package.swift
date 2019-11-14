@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "CollectionView",
     platforms: [
-       .iOS(.v12),
+       .iOS(.v11),
     ],
     products: [
         .library(
